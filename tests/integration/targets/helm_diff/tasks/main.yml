@@ -302,3 +302,5 @@
       ignore_errors: yes
 
 - include_tasks: reuse_values.yml
+
+- include_tasks: reset_then_reuse_values.yml
